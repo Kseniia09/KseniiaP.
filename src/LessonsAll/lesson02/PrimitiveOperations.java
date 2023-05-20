@@ -1,4 +1,4 @@
-package ua.Hillel.lesson02;
+package LessonsAll.lesson02;
 
 public class PrimitiveOperations {
     public static void main(String[] args) {
